@@ -54,7 +54,7 @@
     "highcharts": "^6.2.0",
     "jquery": "^3.5.0",
     "json2csv": "^3.11.5",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mathjs": "^3.18.0",
     "method-override": "^2.3.10",
     "moment": "^2.23.0",
