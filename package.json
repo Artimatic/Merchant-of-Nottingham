@@ -55,7 +55,7 @@
     "jquery": "^3.5.0",
     "json2csv": "^3.11.5",
     "lodash": "^4.17.19",
-    "mathjs": "^3.18.0",
+    "mathjs": "^7.5.1",
     "method-override": "^2.3.10",
     "moment": "^2.23.0",
     "moment-timezone": "^0.5.23",
